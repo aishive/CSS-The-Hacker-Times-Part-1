@@ -63,15 +63,24 @@ h5 {
 
 
 
-main .p {
-    text-align: center;
-}
-
-div .more-articles {
-    display: inline;
-}
-
-.more-articles .p {
+.paragraph {
+    text-align: left;
     display: inline-block;
-    text-align: center;
+    width: 600px;
+    padding-right: 16px;
+}
+
+section {
+    display: inline-block;
+    width: 300px;
+}
+
+h4 {
+    font-family: Roboto Slab;
+}
+
+ .two {
+    display: inline-block;
+    text-align: left;
+    padding-right: 2em;
 }
