@@ -52,16 +52,26 @@ a {
 
 h2{
     font-family: Roboto Slab;
+    text-align: left;
 }
 
 h5 {
     color: red; 
+    text-align: left;
 }
 
-div {
+
+
+
+main .p {
     text-align: center;
 }
 
-p {
+div .more-articles {
+    display: inline;
+}
+
+.more-articles .p {
+    display: inline-block;
     text-align: center;
 }
