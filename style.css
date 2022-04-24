@@ -73,14 +73,11 @@ h5 {
 section {
     display: inline-block;
     width: 300px;
+    padding-right: 1em;
 }
 
 h4 {
     font-family: Roboto Slab;
 }
 
- .two {
-    display: inline-block;
-    text-align: left;
-    padding-right: 2em;
-}
+ 
